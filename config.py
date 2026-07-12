@@ -8,8 +8,6 @@ DB_CONFIG={
 }
 print("Configuration created Successfuly")
 
-# email module 
-from email.message import EmailMessage
 
 # email Configuration 
 EMAIL_CONFIG={
