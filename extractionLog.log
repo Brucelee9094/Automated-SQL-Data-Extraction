@@ -1,0 +1,160 @@
+2026-07-12 12:31:14,486-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 12:31:14,487-INFO-trying to get DB Connction
+2026-07-12 12:31:14,494-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 12:31:14,495-INFO-DataBase Connection Succcessful
+2026-07-12 12:31:14,496-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 12:31:14,509-INFO-Query Executed Successfully
+2026-07-12 12:31:14,512-INFO-Data extracted Successfully
+2026-07-12 12:31:14,512-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 12:31:14,514-INFO-DataBase Conection Closed !
+2026-07-12 13:02:30,944-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 13:02:30,946-INFO-trying to get DB Connction
+2026-07-12 13:02:30,954-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 13:02:30,955-INFO-DataBase Connection Succcessful
+2026-07-12 13:02:30,955-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 13:02:30,968-INFO-Query Executed Successfully
+2026-07-12 13:02:30,971-INFO-Data extracted Successfully
+2026-07-12 13:02:30,972-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 13:02:30,973-INFO-DataBase Conection Closed !
+2026-07-12 14:10:34,646-ERROR-No such comm target registered: jupyter.widget.control
+2026-07-12 14:10:34,654-WARNING-No such comm: b5651a7b-d071-4f7c-b574-891d0e00b6b9
+2026-07-12 14:46:56,817-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 14:46:56,819-INFO-trying to get DB Connction
+2026-07-12 14:46:56,820-ERROR-DataBase connection Failed :'dRIVER'
+Traceback (most recent call last):
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\3318685681.py", line 13, in get_db_Connection
+    f"DRIVER={DB_CONFIG['dRIVER']};"
+              ~~~~~~~~~^^^^^^^^^^
+KeyError: 'dRIVER'
+2026-07-12 14:46:56,822-CRITICAL-eror occured in main function :'dRIVER'
+Traceback (most recent call last):
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\2528034184.py", line 8, in main
+    con=get_db_Connection()
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\3318685681.py", line 13, in get_db_Connection
+    f"DRIVER={DB_CONFIG['dRIVER']};"
+              ~~~~~~~~~^^^^^^^^^^
+KeyError: 'dRIVER'
+2026-07-12 14:46:56,824-INFO-Error message Started
+2026-07-12 14:46:56,854-INFO-error message Sent successfully
+2026-07-12 15:04:10,303-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 15:04:10,304-INFO-trying to get DB Connction
+2026-07-12 15:04:10,305-ERROR-DataBase connection Failed :'dRIVER'
+Traceback (most recent call last):
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\3318685681.py", line 13, in get_db_Connection
+    f"DRIVER={DB_CONFIG['dRIVER']};"
+              ~~~~~~~~~^^^^^^^^^^
+KeyError: 'dRIVER'
+2026-07-12 15:04:10,305-CRITICAL-eror occured in main function :'dRIVER'
+Traceback (most recent call last):
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\2528034184.py", line 8, in main
+    con=get_db_Connection()
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\3318685681.py", line 13, in get_db_Connection
+    f"DRIVER={DB_CONFIG['dRIVER']};"
+              ~~~~~~~~~^^^^^^^^^^
+KeyError: 'dRIVER'
+2026-07-12 15:04:10,307-INFO-Error message Started
+2026-07-12 15:04:14,742-INFO-Email notification sent Successfully
+2026-07-12 15:05:42,446-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 15:05:42,447-INFO-trying to get DB Connction
+2026-07-12 15:05:42,450-ERROR-DataBase connection Failed :'dRIVER'
+Traceback (most recent call last):
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\3318685681.py", line 13, in get_db_Connection
+    f"DRIVER={DB_CONFIG['dRIVER']};"
+              ~~~~~~~~~^^^^^^^^^^
+KeyError: 'dRIVER'
+2026-07-12 15:05:42,454-CRITICAL-eror occured in main function :'dRIVER'
+Traceback (most recent call last):
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\1008178256.py", line 8, in main
+    con=get_db_Connection()
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\3318685681.py", line 13, in get_db_Connection
+    f"DRIVER={DB_CONFIG['dRIVER']};"
+              ~~~~~~~~~^^^^^^^^^^
+KeyError: 'dRIVER'
+2026-07-12 15:05:42,456-INFO-Error message Started
+2026-07-12 15:05:48,469-INFO-Email notification sent Successfully
+2026-07-12 15:06:07,386-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 15:06:07,387-INFO-trying to get DB Connction
+2026-07-12 15:06:07,399-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 15:06:07,400-INFO-DataBase Connection Succcessful
+2026-07-12 15:06:07,400-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 15:06:07,414-INFO-Query Executed Successfully
+2026-07-12 15:06:07,415-CRITICAL-eror occured in main function :name 'oUTPUT_CSV' is not defined
+Traceback (most recent call last):
+  File "C:\Users\YUVA\AppData\Local\Temp\ipykernel_4928\1008178256.py", line 12, in main
+    dataExport(product_data,oUTPUT_CSV)
+                            ^^^^^^^^^^
+NameError: name 'oUTPUT_CSV' is not defined. Did you mean: 'OUTPUT_CSV'?
+2026-07-12 15:06:07,416-INFO-Error message Started
+2026-07-12 15:06:11,827-INFO-Email notification sent Successfully
+2026-07-12 15:06:11,834-INFO-DataBase Conection Closed !
+2026-07-12 15:07:35,938-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 15:07:35,939-INFO-trying to get DB Connction
+2026-07-12 15:07:35,947-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 15:07:35,948-INFO-DataBase Connection Succcessful
+2026-07-12 15:07:35,949-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 15:07:35,960-INFO-Query Executed Successfully
+2026-07-12 15:07:35,963-INFO-Data extracted Successfully
+2026-07-12 15:07:35,963-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 15:07:35,965-INFO-DataBase Conection Closed !
+2026-07-12 15:12:10,556-ERROR-No such comm target registered: jupyter.widget.control
+2026-07-12 15:12:10,558-WARNING-No such comm: 9da8bb0f-954d-4666-aa0d-db476941466f
+2026-07-12 15:54:46,065-ERROR-No such comm target registered: jupyter.widget.control
+2026-07-12 15:54:46,068-WARNING-No such comm: 7799f824-17ca-46df-a21c-c430bc4409ff
+2026-07-12 16:02:34,530-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 16:02:34,530-INFO-trying to get DB Connction
+2026-07-12 16:02:34,613-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 16:02:34,613-INFO-DataBase Connection Succcessful
+2026-07-12 16:02:34,613-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 16:02:34,971-INFO-Query Executed Successfully
+2026-07-12 16:02:34,981-INFO-Data extracted Successfully
+2026-07-12 16:02:34,982-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 16:02:34,983-INFO-DataBase Conection Closed !
+2026-07-12 16:24:56,902-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 16:24:56,902-INFO-trying to get DB Connction
+2026-07-12 16:24:56,974-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 16:24:56,974-INFO-DataBase Connection Succcessful
+2026-07-12 16:24:56,974-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 16:24:57,317-INFO-Query Executed Successfully
+2026-07-12 16:24:57,328-INFO-Data extracted Successfully
+2026-07-12 16:24:57,328-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 16:24:57,329-INFO-DataBase Conection Closed !
+2026-07-12 16:33:06,587-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 16:33:06,588-INFO-trying to get DB Connction
+2026-07-12 16:33:06,594-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 16:33:06,595-INFO-DataBase Connection Succcessful
+2026-07-12 16:33:06,596-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 16:33:06,951-INFO-Query Executed Successfully
+2026-07-12 16:33:06,963-INFO-Data extracted Successfully
+2026-07-12 16:33:06,964-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 16:33:06,965-INFO-DataBase Conection Closed !
+2026-07-12 16:33:36,461-ERROR-No such comm target registered: jupyter.widget.control
+2026-07-12 16:33:36,468-WARNING-No such comm: 88ba469e-820d-4fb1-ad67-7e8a7b3fd00c
+2026-07-12 17:32:16,922-ERROR-No such comm target registered: jupyter.widget.control
+2026-07-12 17:32:16,927-WARNING-No such comm: c9cc653f-0691-484e-a366-dbe4604d46ad
+2026-07-12 17:56:37,193-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 17:56:37,193-INFO-trying to get DB Connction
+2026-07-12 17:56:37,264-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 17:56:37,265-INFO-DataBase Connection Succcessful
+2026-07-12 17:56:37,265-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 17:56:37,572-INFO-Query Executed Successfully
+2026-07-12 17:56:37,582-INFO-Data extracted Successfully
+2026-07-12 17:56:37,583-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 17:56:37,584-INFO-DataBase Conection Closed !
+2026-07-12 18:00:06,283-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 18:00:06,283-INFO-trying to get DB Connction
+2026-07-12 18:00:06,387-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 18:00:06,387-INFO-DataBase Connection Succcessful
+2026-07-12 18:00:06,387-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 18:00:06,735-INFO-Query Executed Successfully
+2026-07-12 18:00:06,747-INFO-Data extracted Successfully
+2026-07-12 18:00:06,748-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 18:00:06,748-INFO-DataBase Conection Closed !
+2026-07-12 18:03:47,470-INFO-AUtomaticdata Extraction WorkFlow Started
+2026-07-12 18:03:47,470-INFO-trying to get DB Connction
+2026-07-12 18:03:47,540-INFO-Successfully Connected to the DataBase .\SQLEXPRESS \ .\SQLEXPRESS
+2026-07-12 18:03:47,541-INFO-DataBase Connection Succcessful
+2026-07-12 18:03:47,541-INFO-Eecuing SQL Query :Select * from ProductSales
+2026-07-12 18:03:47,834-INFO-Query Executed Successfully
+2026-07-12 18:03:47,844-INFO-Data extracted Successfully
+2026-07-12 18:03:47,847-INFO-Data Sucessfully xtracted to the extractedPrint.csv file 
+2026-07-12 18:03:47,853-INFO-DataBase Conection Closed !
