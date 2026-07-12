@@ -140,14 +140,9 @@ After successful execution, the project will:
 
 ## Screenshots
 
-Include screenshots such as:
-
-* SQL Server database table
-* Successful script execution
-* Generated CSV file
-* Log file
-* Windows Task Scheduler
-* Email notification (optional)
+<img width="991" height="900" alt="extraction png" src="https://github.com/user-attachments/assets/d8500f5a-44a3-42a4-8a53-8002542b28d2" />
+<img width="611" height="416" alt="csv png" src="https://github.com/user-attachments/assets/66626772-6f0d-483e-92e0-88a5678578e6" />
+<img width="1040" height="696" alt="Table png" src="https://github.com/user-attachments/assets/20c15389-89e2-4d3e-a2d6-1e8277693c87" />
 
 ---
 
